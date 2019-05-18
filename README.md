@@ -28,7 +28,7 @@ Under documentation.
 
 ## Built With
 
-- [Nest](Under documentation.) - The framework for backend dev.
+- [Nest](https://nestjs.com/) - The framework for backend dev.
 - [Angular](https://angular.io/) - The Client side framework used.
 
 ## Contributing
