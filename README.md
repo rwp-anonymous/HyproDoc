@@ -37,7 +37,7 @@ Please read [CODE_OF_CONDUCT.md](https://github.com/rwp-anonymous/HyproDoc/blob/
 
 ## Authors
 
-- **Devin Herath** - _Initial work_ - [PurpleBooth](https://github.com/DevDHera)
+- **Devin Herath** - _Initial work_ - [DevDHera](https://github.com/DevDHera)
 
 See also the list of [contributors](https://github.com/rwp-anonymous/HyproDoc/graphs/contributors) who participated in this project.
 
